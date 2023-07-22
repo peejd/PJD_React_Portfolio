@@ -30,11 +30,23 @@
       padding-top: 60px;
       padding-left: 30px;
       font-size: 60px;
+      color: white
   }
   
   .bodyheaders {
+      padding-top: 20px;
       text-align: center;
+      color:rgb(185, 185, 185);
+      font-weight: 500;
   }
+  
+  .projects {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    color:rgb(185, 185, 185);
+    font-weight: 500;
+}
   
   .pdfbutton {
       margin: 20px;
@@ -46,9 +58,9 @@
   
   .bodytext {
       text-align: left;
-      padding: 50px;
-      font-size: 40px;
-      color:rgb(0, 0, 0);
+      padding: 40px;
+      font-size: 30px;
+      color:white
   }
   
   .links {
@@ -77,7 +89,7 @@
       flex: 1 1 300px;
       margin-bottom: 20px;
       border: 1px solid #ddd;
-      border-radius: 4px;
+      border-radius: 10px;
       padding: 15px;
     }
     
@@ -126,7 +138,7 @@
       padding-top: 80px;
       text-align: center;
       font-size: 30px;
-      color: black;
+      color:rgb(185, 185, 185);
     }
   
     .social-links {
@@ -136,7 +148,7 @@
     
     .social-links a {
       margin-right: 10px;
-      color: black;
+      color:rgb(185, 185, 185);
       text-decoration: none;
     }
   
@@ -148,7 +160,7 @@
   
     .footlink {
       pointer-events: none;
-      color: black;
+      color:rgb(185, 185, 185);
       padding-right: 20px;
     }
   

@@ -13,7 +13,10 @@ function About() {
           <div className="col-md-6 order-md-1">
             <div style={{ marginLeft: '80px', marginRight: 'auto' }}>
               <p>
-                My name is Philip "PJ" Davidian, and I am a full-stack web developer with a fresh certification from the Coding Bootcamp and UNC Chapel Hill.
+                My name is Philip "PJ" Davidian, and I am a full-stack web developer with a fresh certification from the Coding Bootcamp at UNC Chapel Hill.
+                <br></br> 
+                <br></br> 
+                
                 Prior to enrolling in that program, I worked 8 years in enterprise software implementations and back-end tinkering, 
                 and then another 3 years as Operations Manager for a busy General Contractor here in beautiful Asheville, NC.<br></br>
                 <br></br> 

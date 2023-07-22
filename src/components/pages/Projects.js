@@ -6,7 +6,7 @@ function Projects() {
   return (
     <div className="bodyheaders">
       <section id="Projects">
-        <h1>Portfolio</h1>
+        <h1 className="projects">Past Projects</h1>
 
         <div className="card-container row row-cols-1 row-cols-sm-2 g-3">
           <div className="col row-cols-1 row-cols-sm-2 g-3">

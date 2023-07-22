@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/PJD_React_Portfolio/static/css/main.f5438b70.css",
-    "main.js": "/PJD_React_Portfolio/static/js/main.355e5c5c.js",
+    "main.css": "/PJD_React_Portfolio/static/css/main.64431ea6.css",
+    "main.js": "/PJD_React_Portfolio/static/js/main.c5955386.js",
     "static/media/INKEDIN_PORT.png": "/PJD_React_Portfolio/static/media/INKEDIN_PORT.2b81fad6d2894ead30ca.png",
     "static/media/pjd-werk.jpg": "/PJD_React_Portfolio/static/media/pjd-werk.cae2caf57133c8a64ab9.jpg",
     "static/media/SH_logo.png": "/PJD_React_Portfolio/static/media/SH_logo.959ac2356c5420d5fcee.png",
     "index.html": "/PJD_React_Portfolio/index.html",
-    "main.f5438b70.css.map": "/PJD_React_Portfolio/static/css/main.f5438b70.css.map",
-    "main.355e5c5c.js.map": "/PJD_React_Portfolio/static/js/main.355e5c5c.js.map"
+    "main.64431ea6.css.map": "/PJD_React_Portfolio/static/css/main.64431ea6.css.map",
+    "main.c5955386.js.map": "/PJD_React_Portfolio/static/js/main.c5955386.js.map"
   },
   "entrypoints": [
-    "static/css/main.f5438b70.css",
-    "static/js/main.355e5c5c.js"
+    "static/css/main.64431ea6.css",
+    "static/js/main.c5955386.js"
   ]
 }

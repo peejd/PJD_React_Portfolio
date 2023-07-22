@@ -12,7 +12,7 @@ function App() {
     <Router>
       <div className="app-wrapper">
       <div class = 'background'>
-        <h1 class = 'mainheader'>Phiilp Davidian's Portfolio <Navigation /></h1>
+        <h1 class = 'mainheader'>Philip Davidian's Portfolio <Navigation /></h1>
 
         <Routes>
           <Route path="/" element={<About />} />
