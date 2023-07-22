@@ -1,0 +1,163 @@
+.welcome{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    text-align: center;
+    justify-content: center;
+    font-size:xx-large;
+    color: black;
+    
+  }
+  
+  .background {
+      background-color: rgb(64, 64, 65);
+      
+  }
+  
+  .app-wrapper {
+      background-color: rgb(64, 64, 65);
+      min-height: 100vh;
+    }
+  
+  .dropdown .btn-primary {
+      background-color: rgb(168, 168, 168);
+      color: black;
+      border-radius: 20px;
+      font-size: 30px;
+      margin-top: -30px;
+  }
+  
+  .mainheader {
+      padding-top: 60px;
+      padding-left: 30px;
+      font-size: 60px;
+  }
+  
+  .bodyheaders {
+      text-align: center;
+  }
+  
+  .pdfbutton {
+      margin: 20px;
+      padding: 8px;
+      background-color: rgb(168, 168, 168);
+      border-radius: 20px;
+      font-size: 20px;
+  }
+  
+  .bodytext {
+      text-align: left;
+      padding: 50px;
+      font-size: 40px;
+      color:rgb(0, 0, 0);
+  }
+  
+  .links {
+      padding-top: 50px;
+      text-align: center;
+      font-size: 40px;
+  }
+  
+  .links .contact-link {
+      color: rgb(2, 2, 2); /* Change the color of the links */
+    }
+    
+  .links .contact-link:hover {
+      color: rgb(212, 0, 255); /* Change the color of the links on hover */
+    }
+  
+  
+    .card-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      padding: 0 15px;
+    }
+    
+    .card {
+      flex: 1 1 300px;
+      margin-bottom: 20px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      padding: 15px;
+    }
+    
+    .card-img-top {
+      width: 100%;
+      height: auto;
+    }
+    
+    .card-title {
+      font-size: 18px;
+      font-weight: bold;
+    }
+    
+    .card-text {
+      font-size: 14px;
+    }
+  
+  
+    .contact-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+    }
+    
+    .form-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      margin-top: 1rem;
+    }
+    
+    .input-group {
+      margin-bottom: 1rem;
+      font-weight: bolder;
+  
+    }
+    
+    button[type='submit'] {
+      margin-top: 1rem;
+    }
+    
+    .footer {
+      padding-top: 80px;
+      text-align: center;
+      font-size: 30px;
+      color: black;
+    }
+  
+    .social-links {
+      display: flex;
+      justify-content: center;
+    }
+    
+    .social-links a {
+      margin-right: 10px;
+      color: black;
+      text-decoration: none;
+    }
+  
+    .social-links :hover {
+      margin-right: 10px;
+      color: purple;
+      text-decoration: none;
+    }
+  
+    .footlink {
+      pointer-events: none;
+      color: black;
+      padding-right: 20px;
+    }
+  
+    .resumeheader{
+      font-size: 30px;
+      
+    }
+  
+    .resumesecond{
+      font-size: 30px;
+      text-decoration: underline;
+    }
