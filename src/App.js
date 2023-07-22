@@ -13,12 +13,12 @@ function App() {
       <div className="app-wrapper">
       <div class = 'background'>
         <h1 class = 'mainheader'>Philip Davidian's Portfolio <Navigation /></h1>
-
         <Routes>
-          <Route path="/" element={<About />} />
+          <Route index element={<About />} />
           <Route path="/projects" element={<Projects/>} />
           {/* <Route path="/contact" element={<Contact/>} />
           <Route path="/resume" element={<Resume/>} /> */}
+          <Route path="*" element={<About />} />
         </Routes>
       <Footer/>
       </div>
